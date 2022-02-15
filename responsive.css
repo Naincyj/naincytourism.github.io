@@ -1,0 +1,116 @@
+@media only screen and (max-width:1140px){
+    .logo{
+        padding:10px;
+    }
+    
+    
+    .nav-list{
+        flex-direction: column;
+        padding:20px;
+    }
+    .nav-list li{
+        padding:15px;
+    }
+    
+    .navbar{
+        height: 70vh;
+        flex-direction: column;
+        padding: 10px;
+        transition: all 0.7s ease-out;
+    }
+    .rightNav{
+        text-align: center;
+        
+    }
+    .box-main{
+        height:85vh;
+        flex-direction: column-reverse;
+        max-width: 100%;
+    }
+    #search{
+        width: 100%;
+        
+    }
+    
+    .burger{
+        display: block;
+    }
+    .h-nav-resp{
+        height: 72px;
+    }
+    .v-class-resp{
+        opacity: 0;
+    }
+    .section{
+        height:170vh;
+        flex-direction: column-reverse;
+        font-size: small;
+    }
+    .buttons{
+        text-align:center;
+        margin-top:40px;
+    }
+    
+    .contact{
+        height:130vh;
+    }
+    
+    .text-medium{
+        text-align: center;
+        font-size:30px;
+    }
+    .text-med{
+        text-align: center;
+        
+    }
+    .text-small{
+        text-align: center;
+    }
+    .btn{
+        text-align: center;
+        
+        
+    }
+    .btn-sm{
+        margin-top:30px;
+        margin-right:10px;
+    }
+    .paras{
+        padding: 0 1px;
+    }
+    .about{
+        width:500px;
+        height:190vh;
+    }
+    .p-sml{
+        text-align: center;
+        margin-right:100px;
+    }
+        .submit{
+            width:500px;
+            height:190vh;
+        }
+        .p-me{
+            margin-top:60px;
+            text-align: center;
+        }
+    .tick img{
+        margin-top:50px;
+        margin-right: 100px;;
+        
+    }
+   }
+       
+   
+       
+       
+   
+       
+   
+       
+       
+   
+       
+   
+       
+   
